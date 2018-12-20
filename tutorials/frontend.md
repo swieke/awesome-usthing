@@ -2,21 +2,20 @@
 
 p.s. : THIS IS NOT SERVER SIDE STUFF
 
-## Project Repos
+## Projects
 
-- EMS 
-Site:
-
-  [USThing Event Portal](https://events.usthing.xyz/)
-
-  [Sign in](https://github.com/IniZio/usthing-events)
-
-- nothing else...
+| Project|Website|Repo|
+| ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|USThing Events|https://events.usthing.xyz/|https://github.com/IniZio/usthing-events|
+|USThing Admin|https://usthing-admin.netlify.com/|https://github.com/tszkanlo/USThing_AdminPanel|
+|USThing Web|https://usthing-web.netlify.com/|https://github.com/IniZio/usthing-web|
+|USThing UI|https://inizio.github.io/usthing-ui/|https://github.com/IniZio/usthing-ui|
+|USThing Millionaire|https://usthing-millionaire.netlify.com/|https://github.com/IniZio/usthing-millionaire|
 
 ## Tech stack
 
 - Webpack
-- ES6 + VueJs
+- ES6 + Vue.js / React.js
 
 ## Language and coding style
 
