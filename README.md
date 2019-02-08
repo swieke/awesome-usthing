@@ -34,6 +34,7 @@
 - Tools
   - [API Token Generator](https://github.com/chihimng/usthing-api-token-generator)
   - [Notification Sender](https://github.com/chihimng/usthing-notification-sender)
+  - [User Analytics](https://github.com/chihimng/usthing-user-analytics)
   
 ## Resources
 
