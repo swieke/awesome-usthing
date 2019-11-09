@@ -29,7 +29,7 @@
   - [Homepage](https://github.com/usthing/USThing_Homepage)
   - [USThing Web](https://github.com/IniZio/usthing-web)
   - [Events Portal (Web)](https://github.com/IniZio/usthing-events)
-  - [Admin Panel (Web)](https://github.com/tszkanlo/USThing_AdminPanel) 
+  - [Admin Panel (Web)](https://github.com/IniZio/usthing-admin) 
   - [Backend](#backend)
 - Tools
   - [API Token Generator](https://github.com/chihimng/usthing-api-token-generator)
